@@ -1,0 +1,14 @@
+Week 1 notes:
+
+	- good resource for R programming questions: http://bit.ly/Ufaadn
+	- R mailing lists / Stackoverflow
+	- data science has many different names, depending on the arena; i.e.Biostatistics, NLP, machine learning, econometrics, signal processing, etc.
+	- reproducible research looks like a really cool class...basically how to ensure your analysis can be executed by someone else (automatically?) in an unbiased manner.
+	- cool, I guess R has machine learning packages available.
+	- building data products looks like a pretty cool class...maybe a product that gets data, analyzes it, and places it in a digestible context; that would be a cool project.
+
+	This first set of lessons really was just a broad overview of what else is coming down the pike in the data scientist specialization track...seems like some pretty cool stuff.
+
+	Well, I guess Coursera has decided to no longer allow free access to even the auto-graded quizzes...slightly disapointing...oh well...
+
+Week 2 notes: 
