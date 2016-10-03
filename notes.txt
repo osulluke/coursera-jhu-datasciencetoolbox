@@ -12,3 +12,29 @@ Week 1 notes:
 	Well, I guess Coursera has decided to no longer allow free access to even the auto-graded quizzes...slightly disapointing...oh well...
 
 Week 2 notes: 
+	
+	- quick little intro to git and github...nice, very quick overview; nothing I don't already know.
+	- oooo! cool command 'git add -u' - this will add all the files in a repo that have changed, as opposed to 'git add .' which adds everything.
+	- one bit of functionality Github has over git is the 'pull request'...this is what allows a project manager to determine whether or not to incorporate changes someone has made into the branch being 'pulled' against.
+	- Markdown: This is an important subject; one I don't know anything about.
+		- ## mark Secondary headings; ### indicate tertiary headings
+		- * used in different lines make bulleted lists pretty easily.
+	- installing R packages...the come from CRAN.
+		a <- available.packages()
+		head(rownames(a),3)
+	that couple sequence of commands will show packages available for install.
+
+		install.packages("slidify") will obviously install the package...this can be used as install.packages("a","b",...)
+
+		tools -> install packages will let you do it from Rstudio
+
+		library(package) loads the package into the current environment which makes those functions available...don't use ""...
+		search() executed in sequence will then show you the functions (and packages?) available for use in your environment...I think...
+
+	- installing Rtools...doesn't matter for Linux/Mac.
+
+	...but no, seriously, it's pretty annoying you can't use the auto-quizzes...
+
+Week 3:
+
+	- 
