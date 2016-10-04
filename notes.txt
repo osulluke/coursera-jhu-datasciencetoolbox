@@ -37,4 +37,54 @@ Week 2 notes:
 
 Week 3:
 
+	- Concepts of data-science.
+	- Order of difficulty: descriptive, exploratory, inferential, predictive, causal, mechanistic.
+
+	- Descriptive: first type of analysis performed. Interpret. Can't really say what it means.
+	- Exploratory: looking at data to discover relationships that you didn't really know about before - not used for generalization...good at defining future studies. "Correlation != Causation" is the theme here. This is about discovery. Sloan Digital Sky Survey is an example as well.
+	- Inference: common goal of most statistics. Prediction. Depends heavily on the group of people (or sample) being examined.
+	- Predictiton: is more challenging and different...maybe prediction wasn't applicable to inference. X predicts Y does not mean X causes Y. More data and simple models works best. Nate Silver's predictive analysis of the last presidential elections. Target using data to predict someone is pregnant based on their purchases.
+	- Causal analysis - how changing one variable affects another. Gold standard for data analysis. Uses randomized studies. The example of using fecal matter from other people to re-establish other people's biomes was shown to be causal...remember that NPR study. They said that it would have been against medical ethics to continue the study because the reaction was so strongly positive, and witholding treatment would have been unethical...
+	- Mechanistic analysis - basically a perfect model for a system. Can be achieved in physical/engineering sciences. Only error here is usually measurement error.
+
+	What is data?
+
+	- You need a set; the group of things you are trying to find something out about. Set has variables, quantitative and qualitative, that have values.
+
+	- Comes in a VERY wide variety of forms and formats.
+
+	- Check out something called 'Darwin Tunes' - seems like a cool idea...evolutionary music.
+
+	- data.gov...large repo of government maintained databases/datasets.
+
+	- data is the 2nd most important thing. The question you're trying to answer is the most important thing. Sometimes questions must be modified to suit the data at hand. Data won't save you unless you have a question to ask...duh.
+
+	What is big data?
+
+	- Some datasets are so large, they can't be analyzed on a single machine...data won't fit into memory. Big data will change as technology does...hmm, makes sense.
+
+	- Data collections is now much easier than it used to be...but is analyzing it easier? Hadoop is for data that basically won't fit into your memory. Big or small, you need the right data.
+
+	Experimental Design:
+
+	- Very exciting results can be mis-leading. Experimental design is critical at the outset in order to prevent chasing rabits down the wrong path.
+
+	- Small amounts of data can be placed on git hub...LARGE amounts of data can be placed on a site such as figshare.com.
+
+	- This is a scientific discipline. In an experiment, a good thing is when you have small variability, and large differences between the different outcomes of different experiments.
+
+	- Confounding is when there is a variable that affects two variables, between which there is a correlation. i.e. here is an example of 'why' correlation != causation. Shoe size -> Literacy, but Age is the confounding variable. Spurious correlation is a term used to refer to these relationships.
+
+		- Ways to avoid this? Fix a variable (if able)
+		- Stratify a variable if you can't fix it.
+		- If you can't fix or stratify, randomize.
+
+	- Prediction, being more difficult than inference, generally requires greater spread between outcomes in variables.
+
+	- Data dredging...looking so closely at data that you infer something that is not actually there.
+
+	- Probability 'given' X...there is a really cool slide I'm going to add that shows some terms used when describing conditional probabilities. This is reminicent of Bayes' rule, or at least it's a part of it. Look at slide #19.
+
+Week 4: 
+
 	- 
